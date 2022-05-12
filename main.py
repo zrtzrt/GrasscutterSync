@@ -1,4 +1,3 @@
-import json
 from GMReader import IdMap
 from configparser import ConfigParser
 from pymongo import MongoClient
