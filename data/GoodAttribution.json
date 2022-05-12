@@ -1,0 +1,20 @@
+{
+    "hp": "HP",
+    "atk": "ATK",
+    "def": "DEF",
+    "def_": "DEFPercentage",
+    "hp_": "HPPercentage",
+    "atk_": "ATKPercentage",
+    "electro_dmg_": "ElectroDMGBonus",
+    "critRate_": "CRITRate",
+    "enerRech_": "EnergyRecharge",
+    "geo_dmg_": "GeoDMGBonus",
+    "pyro_dmg_": "PyroDMGBonus",
+    "critDMG_": "CRITDMG",
+    "cryo_dmg_": "CryoDMGBonus",
+    "anemo_dmg_": "AnemoDMGBonus",
+    "heal_": "HealingBonus",
+    "eleMas": "ElementalMastery",
+    "physical_dmg_": "PhysicalDMGBonus",
+    "hydro_dmg_": "HydroDMGBonus"
+}
