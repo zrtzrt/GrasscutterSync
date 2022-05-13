@@ -6,8 +6,8 @@ from SyncCore import load_json
 
 
 def input_uid():
-    uid = input("UID:")
-    account = db["accounts"].find_one(uid)
+    uid = int(input("UID:"))
+    account = db["accounts"].find_one({"playerId": uid})
     if not account:
         print("account not found")
         uid = input_uid()
@@ -23,7 +23,7 @@ if __name__ == '__main__':
     client = MongoClient(config["database"]["host"], int(config["database"]["port"]))
     db = client[config["database"]["name"]]
     print("connect database success")
-    uid = int(input_uid())
+    uid = input_uid()
     dataPath = input("JSON DATA PATH:")
     data = load_json(dataPath)
     if data["format"] == "GOOD" and data["version"] == 1:

@@ -4,7 +4,7 @@ Synchronize your account to Grasscutter
 ---
 ### Running
 1. setup [Grasscutter](https://github.com/Grasscutters/Grasscutter) to build database
-   1. `account <username> [UID]`
+   1. `account create <username> [UID]`
    2. login account and choose your main character
    3. backup your database before running script
 2. run [Inventory_Kamera](https://github.com/Andrewthe13th/Inventory_Kamera) to get json data from your account

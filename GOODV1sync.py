@@ -32,7 +32,7 @@ class GoodV1sync:
                     avatar["proudSkillList"].append(int(avt_id[-2:] + "2201"))
                 talents = ["auto", "skill", "burst"]
                 for index, key in enumerate(list(avatar["skillLevelMap"].keys())):
-                    if index > 3:
+                    if index < 3:
                         avatar["skillLevelMap"][key] = character["talent"][talents[index]]
                 inserted = self.db["avatars"].insert_one(avatar)
                 ids.append(inserted.inserted_id)

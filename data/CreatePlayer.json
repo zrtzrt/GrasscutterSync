@@ -1,0 +1,1026 @@
+{
+  "_id": 1,
+  "accountId": "10001",
+  "nickname": "",
+  "signature": "",
+  "headImage": 10000007,
+  "nameCardId": 210001,
+  "pos": {
+    "_t": "Position",
+    "x": 2746.9990234375,
+    "y": 194.62376403808594,
+    "z": -1719.00048828125
+  },
+  "rotation": {
+    "_t": "Position",
+    "x": 0,
+    "y": 306.9838562011719,
+    "z": 0
+  },
+  "birthday": {
+    "_t": "PlayerBirthday",
+    "day": 0,
+    "month": 0
+  },
+  "properties": {
+    "10001": 0,
+    "10002": 0,
+    "10003": 0,
+    "10004": 1,
+    "10005": 50,
+    "10006": 1,
+    "10007": 0,
+    "10008": 0,
+    "10009": 1,
+    "10010": 24000,
+    "10011": 24000,
+    "10012": 0,
+    "10013": 1,
+    "10014": 0,
+    "10015": 0,
+    "10016": 0,
+    "10017": 2,
+    "10018": 1,
+    "10019": 0,
+    "10020": 160,
+    "10022": 0,
+    "10023": 0,
+    "10024": 0,
+    "10025": 0,
+    "10026": 0,
+    "10027": 0,
+    "10028": 0,
+    "10029": 0,
+    "10035": 0,
+    "10036": 0,
+    "10037": 0,
+    "10038": 0,
+    "10039": 0,
+    "10040": 0,
+    "10041": 0,
+    "10042": 0,
+    "10043": 0
+  },
+  "nameCardList": [
+    210001
+  ],
+  "flyCloakList": [
+    140001
+  ],
+  "costumeList": [],
+  "teamManager": {
+    "_t": "TeamManager",
+    "teams": {
+      "1": {
+        "_t": "TeamInfo",
+        "name": "",
+        "avatars": [
+          10000007
+        ]
+      },
+      "2": {
+        "_t": "TeamInfo",
+        "name": "",
+        "avatars": []
+      },
+      "3": {
+        "_t": "TeamInfo",
+        "name": "",
+        "avatars": []
+      },
+      "4": {
+        "_t": "TeamInfo",
+        "name": "",
+        "avatars": []
+      }
+    },
+    "currentTeamIndex": 1,
+    "currentCharacterIndex": 0
+  },
+  "towerManager": {
+    "_t": "TowerManager",
+    "currentFloorId": 0,
+    "currentLevel": 0
+  },
+  "gachaInfo": {
+    "_t": "PlayerGachaInfo",
+    "standardBanner": {
+      "_t": "PlayerGachaBannerInfo",
+      "pity5": 0,
+      "pity4": 0,
+      "failedFeaturedItemPulls": 0
+    },
+    "eventCharacterBanner": {
+      "_t": "PlayerGachaBannerInfo",
+      "pity5": 0,
+      "pity4": 0,
+      "failedFeaturedItemPulls": 0
+    },
+    "eventWeaponBanner": {
+      "_t": "PlayerGachaBannerInfo",
+      "pity5": 0,
+      "pity4": 0,
+      "failedFeaturedItemPulls": 0
+    }
+  },
+  "playerProfile": {
+    "_t": "PlayerProfile",
+    "uid": 1,
+    "nameCard": 210001,
+    "avatarId": 10000007,
+    "name": "zrt",
+    "signature": "",
+    "achievements": 0,
+    "playerLevel": 1,
+    "worldLevel": 0,
+    "lastActiveTime": 1652432807
+  },
+  "showAvatar": false,
+  "rewardedLevels": [],
+  "shopLimit": [
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 106001,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 106002,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 106004,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 106003,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 103029,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 103030,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 103034,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 103026,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 103036,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 103032,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 103024,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 103028,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 103022,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 103037,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 103033,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 103041,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 103025,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 103021,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 103013,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 103046,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 103047,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 103048,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 103049,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 103014,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 103039,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 103040,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 103031,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 103023,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 103044,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 103010,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 103042,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 103012,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 103035,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 103019,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 103009,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 103045,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 103050,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 103020,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 103018,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 103043,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 103011,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 103027,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102502,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102503,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102501,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102506,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102508,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102504,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102510,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102507,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102511,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102515,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102522,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102520,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102514,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102512,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102003,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102529,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102521,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102505,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102513,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102535,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102537,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102004,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102540,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102538,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102006,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102010,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102008,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102544,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102528,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102531,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102001,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102017,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102519,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102013,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102024,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102022,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102524,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102526,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102031,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102542,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102533,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102517,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102015,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102038,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102036,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102034,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102033,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102029,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102037,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102020,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102028,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102026,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102018,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102546,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102545,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102027,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102035,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102019,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102011,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102007,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102534,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102532,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102530,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102002,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102014,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102543,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102527,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102523,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102539,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102005,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102021,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102009,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102023,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102025,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102030,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102518,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102516,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102016,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102032,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102541,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102525,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    },
+    {
+      "_t": "ShopLimit",
+      "shopGoodId": 102509,
+      "hasBought": 0,
+      "hasBoughtInPeriod": 0,
+      "nextRefreshTime": 0
+    }
+  ],
+  "expeditionInfo": {},
+  "sceneId": 3,
+  "regionId": 1,
+  "mainCharacterId": 10000007,
+  "godmode": false,
+  "moonCard": false,
+  "moonCardDuration": 0,
+  "moonCardGetTimes": [],
+  "showAvatars": false,
+  "mapMarksManager": {
+    "_t": "MapMarksManager",
+    "mapMarks": {}
+  },
+  "springLastUsed": {
+    "$numberLong": "0"
+  }
+}
